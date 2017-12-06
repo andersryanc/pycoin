@@ -8,3 +8,14 @@ Python 2.7.13
 ```
 
 > BEWARE! running this on Python 3 may result in errors as the syntax for print is different.
+
+# Expected Output
+
+When running this code yourself, you should see something like the following:
+
+```bash
+$ python ./block.py
+Is Chain Valid?? True
+Changing a block...
+Is Chain Valid?? False
+```
