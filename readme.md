@@ -2,7 +2,7 @@ I created this repo as a means to learn both python and block chain development.
 
 I'm built this using:
 
-```bash
+```
 $ python --version
 Python 2.7.13
 ```
@@ -13,7 +13,7 @@ Python 2.7.13
 
 When running this code yourself, you should see something like the following:
 
-```bash
+```
 $ python ./block.py
 Is Chain Valid?? True
 Changing a block...
